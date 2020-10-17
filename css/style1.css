@@ -1,0 +1,52 @@
+.left{
+    height: fit-content;
+    width: 45%;
+    float: left;
+    padding-left: 5cm;
+}
+html *
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    text-align: justify;
+}
+
+#Projects{
+    display: inline-block;
+}
+
+#WorkExp{
+    display: inline-block;
+}
+
+.center{
+    text-align: center;
+    width: 100%;
+    height: fit-content;
+}
+
+.subHeader{
+    text-decoration: underline;
+    font-size: 20px;
+    /* text-align: center; */
+}
+
+.right{
+    height: fit-content;
+    width: 45%;
+    float: right;
+    text-align: left;
+    padding-right: 5cm;
+}
+
+.secTitle{
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: beige;
+}
