@@ -9,11 +9,12 @@ html *
     font-family: 'Courier New', Courier, monospace;
 }
 
-.navbar navbar navbar-expand-lg navbar-dark bg-dark{
-    text-align: center;
-}
-
- 
+.image{
+    display: block;
+    margin-left: 19cm;
+    margin-right: auto;
+    width: 60%
+} 
 
 p{
     text-align: justify;
