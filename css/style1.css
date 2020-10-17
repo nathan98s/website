@@ -9,6 +9,12 @@ html *
     font-family: 'Courier New', Courier, monospace;
 }
 
+.navbar navbar navbar-expand-lg navbar-dark bg-dark{
+    text-align: center;
+}
+
+ 
+
 p{
     text-align: justify;
 }
@@ -25,6 +31,14 @@ p{
     text-align: center;
     width: 100%;
     height: fit-content;
+}
+
+.pdf{ 
+    height:fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;    
 }
 
 .subHeader{
