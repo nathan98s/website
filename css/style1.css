@@ -20,6 +20,11 @@ p{
     text-align: justify;
 }
 
+.navbar{
+    align-content: center;
+    height: 50px;
+}
+
 #Projects{
     display: inline-block;
 }
